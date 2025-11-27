@@ -1,6 +1,6 @@
 ## Terra Changelog
 
-## 1.3
+## 1.2.1
 ## Server side
 Added:
 - Anti Xray
