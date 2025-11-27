@@ -8,6 +8,8 @@ Added:
 
 ## Client Side
 - Fixed an issue with the menu customization bar showing
+- Added announcements section to main menu
+- Made announcements and changelog get text from github.com/xndr2/terra
 
 ## 1.2
 ### Client side - On this pc!
