@@ -1,5 +1,9 @@
 ## Terra Changelog
 
+## 1.2.2
+## Client Side
+Fixed an issue with the top menu bar showing
+
 ## 1.2.1
 ## Server side
 Added:
