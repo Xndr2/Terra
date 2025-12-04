@@ -4,8 +4,7 @@
 ### Client and Server side
 Added Immersive Melodies - play music!!
 Added Immersive Furniture:
-> Craft a Artisan's Workstation to get started! See image
-> <img width="756" height="240" alt="image" src="https://github.com/user-attachments/assets/dc2edd1d-9ee3-4479-98c4-bbfee7e49d0c" />
+> Craft a Artisan's Workstation to get started!
 
 ### Server side
 Changed Seasons to be **1** day per season. Seasons have also been reset to spring in order to adjust for these changes.
