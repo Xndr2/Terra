@@ -1,7 +1,17 @@
 ## Terra Changelog
 
+## 1.3
+### Client and Server side
+Added Immersive Melodies - play music!!
+Added Immersive Furniture:
+> Craft a Artisan's Workstation to get started! See image
+> <img width="756" height="240" alt="image" src="https://github.com/user-attachments/assets/dc2edd1d-9ee3-4479-98c4-bbfee7e49d0c" />
+
+### Server side
+Changed Seasons to be **1** day per season. Seasons have also been reset to spring in order to adjust for these changes.
+
 ## 1.2.2
-## Client Side
+### Client Side
 Fixed an issue with the top menu bar showing
 
 ## 1.2.1
